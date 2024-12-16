@@ -4,7 +4,7 @@ This is where I organize and catalog my reading journey, sorting books by themes
 
 ### Code / Development
 
-### Architecture & System Design
+### Architecture / System Design
 
 ### Testing
 
